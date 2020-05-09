@@ -1,8 +1,6 @@
 # Lex-Yacc
 Creating an Input Language with the lex and yacc
 
-# Lex-Yacc
-Creating an Input Language with the lex and yacc
 LEX
 In the first part, we included libraries as stdio.h, stdlib.h and functions as y.tab.h, yyerror().
 Then, in the second part we defined the phrases that we use in our language, which is used in C Language.
